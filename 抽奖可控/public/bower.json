@@ -1,0 +1,21 @@
+{
+  "name": "luckydraw",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "yangxiaoming <yangxiaoming1924@163.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sweetalert2": "^6.6.6",
+    "jquery": "^3.2.1"
+  }
+}
